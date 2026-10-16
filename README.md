@@ -2,7 +2,7 @@
 
 **67-336 Data Visualization | Fall 2026**
 
-##Overview
+## Overview
 
 This is the first part of Lab 3. It walks through Tableau installation and creating your first Tableau dashboard using live data sets.
 
